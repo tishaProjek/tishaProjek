@@ -1,11 +1,12 @@
 # 👋 Tentang Saya
 
-Halo! Saya Tisha Ivana, seorang pelajar yang bersemangat untuk menciptakan pengalaman pengguna yang intuitif dan menarik. 🎨
+Halo! Saya Tisha Ivana, seorang pelajar yang bersemangat untuk menciptakan pengalaman pengguna yang intuitif dan menarik.
+if you are bored you can call me.🎨
 
 ## 🔍 Profil Singkat
 
-- **Nama**: [Tisha]
-- **Lokasi**: [Indonesia]
+- **Nama**: Tisha
+- **Lokasi**: Indonesia
 - **Bidang**: FLUTTER RUN GO
 
 ## 💡 Passion Saya
@@ -14,7 +15,7 @@ Saya percaya bahwa desain yang baik tidak hanya tentang estetika, tetapi juga te
 
 ## 🛠 Keterampilan
 
-- **Desain Visual**: Figma
+- **Desain Visual**: Figma dan adobe photoshop
 - **HTML/JAVA/DART**: Dasar-dasar pengembangan web untuk kolaborasi dengan tim pengembang. 💻
 
 ## 🎯 Tujuan
