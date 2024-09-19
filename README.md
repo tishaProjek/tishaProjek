@@ -1,4 +1,4 @@
-# 👋 Tentang Saya
+# 👋 Good Day to see me
 
 Halo! Saya Tisha Ivana, seorang pelajar yang bersemangat untuk menciptakan pengalaman pengguna yang intuitif dan menarik.
 if you are bored you can call me.🎨
