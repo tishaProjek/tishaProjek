@@ -11,7 +11,7 @@ if you are bored you can call me.🎨
 
 ## 💡 Passion Saya
 
-Saya percaya bahwa desain yang baik tidak hanya tentang estetika, tetapi juga tentang bagaimana cara pengguna berinteraksi dengan produk. Saya senang melakukan riset pengguna dan menerapkan prinsip desain yang membuat setiap pengalaman lebih baik. 🌟
+Saya percaya bahwa kepercayaan datang dari dirisendiri, dan saya yakin bawa semua akan ada masanya. 🌟
 
 ## 🛠 Keterampilan
 
@@ -20,16 +20,16 @@ Saya percaya bahwa desain yang baik tidak hanya tentang estetika, tetapi juga te
 
 ## 🎯 Tujuan
 
-Saya berkomitmen untuk terus belajar dan berkembang dalam dunia desain. Saya ingin menciptakan solusi yang tidak hanya memenuhi kebutuhan pengguna, tetapi juga memberikan pengalaman yang menyenangkan. 🚀
+masuk Surgaa. 🚀
 
 ## 📫 Mari Terhubung!
 
-Jangan ragu untuk menghubungi saya jika kamu ingin berdiskusi tentang desain, kolaborasi, atau hanya berbagi ide! 📧
+you can call me if you are boried(tapi bohomg)! 📧
 
 - **Email**: tishainhere@gmail.com
 - **LinkedIn**: [tisharajin](https://www.linkedin.com/in/yourprofile)
 - **Instagram**: [@tishaaaaai](https://instagram.com/tishaaaaai)
 
-Terima kasih telah mengunjungi profil saya! Saya berharap dapat berbagi lebih banyak tentang desain dan pengalaman saya dengan kalian semua! 🎉
+Terimakasih atas segala rasa, sampai jumpa di esok harii ! 🎉
 
 --- 
