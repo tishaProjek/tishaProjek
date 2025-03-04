@@ -6,7 +6,7 @@ if you are bored you can call me.🎨
 ## 🔍 Profil Singkat
 
 - **Nama**: Tisha
-- **Lokasi**: Indonesia
+- **Tap**: https://tishaprojek.github.io/tishaCobaPorto/
 - **Bidang**: FLUTTER RUN GO
 
 ## 💡 Passion Saya
