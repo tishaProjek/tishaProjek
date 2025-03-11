@@ -6,7 +6,7 @@ if you are bored you can call me.🎨
 ## 🔍 Profil Singkat
 
 - **Nama**: Tisha
-- **Tap**: https://tishaprojek.github.io/tishaCobaPorto/
+- **Tap**: https://tishaprojek.github.io/tishaCobaPorto/?v=2
 - **Bidang**: FLUTTER RUN GO
 
 ## 💡 Passion Saya
