@@ -1,7 +1,7 @@
 # 👋 Good Day to see me
 
 Halo! Saya Tisha Ivana, seorang pelajar yang bersemangat untuk menciptakan pengalaman pengguna yang intuitif dan menarik.
-if you are bored you can call me.🎨
+if you are bored you can buy me a coffe.🎨
 
 ## 🔍 Profil Singkat
 
@@ -24,12 +24,12 @@ masuk Surgaa. 🚀
 
 ## 📫 Mari Terhubung!
 
-you can call me if you are boried(tapi bohomg)! 📧
+you can call me if you are boried(tapi bohomg) 📧
 
 - **Email**: tishainhere@gmail.com
 - **LinkedIn**: [tisharajin](https://www.linkedin.com/in/yourprofile)
 - **Instagram**: [@tishaaaaai](https://instagram.com/tishaaaaai)
 
-Terimakasih atas segala rasa, sampai jumpa di esok harii ! 🎉
+Terimakasih atas segala rasa, sampai jumpa di esok harii 🎉
 
 --- 
