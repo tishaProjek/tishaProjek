@@ -6,7 +6,7 @@ if you are bored you can buy me a coffe.🎨
 ## 🔍 Profil Singkat
 
 - **Nama**: Tisha
-  - **Bidang**: FLUTTER RUN GO
+- **Bidang**: FLUTTER RUN GO
 
 ## 💡 Passion Saya
 
