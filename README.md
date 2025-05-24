@@ -6,8 +6,7 @@ if you are bored you can buy me a coffe.🎨
 ## 🔍 Profil Singkat
 
 - **Nama**: Tisha
-- **Tap**: https://tishaprojek.github.io/tishaCobaPorto/?v=2
-- **Bidang**: FLUTTER RUN GO
+  - **Bidang**: FLUTTER RUN GO
 
 ## 💡 Passion Saya
 
