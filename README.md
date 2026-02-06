@@ -1,4 +1,4 @@
-# 👋 Good Day to see me
+
 
 Halo! Saya Tisha Ivana, seorang pelajar yang bersemangat untuk menciptakan pengalaman pengguna yang intuitif dan menarik.
 if you are bored you can buy me a coffe.🎨
@@ -6,7 +6,6 @@ if you are bored you can buy me a coffe.🎨
 ## 🔍 Profil Singkat
 
 - **Nama**: Tisha
-- **Bidang**: FLUTTER RUN GO
 
 ## 💡 Passion Saya
 
@@ -14,7 +13,7 @@ Saya percaya bahwa kepercayaan datang dari dirisendiri, dan saya yakin bawa semu
 
 ## 🛠 Keterampilan
 
-- **Desain Visual**: Figma dan adobe photoshop
+- **Desain Visual**: Figma
 - **HTML/JAVA/DART**: Dasar-dasar pengembangan web untuk kolaborasi dengan tim pengembang. 💻
 
 ## 🎯 Tujuan
