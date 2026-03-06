@@ -1,7 +1,6 @@
 
 
 Halo! Saya Tisha Ivana, seorang pelajar yang bersemangat untuk menciptakan pengalaman pengguna yang intuitif dan menarik.
-if you are bored you can buy me a coffe.🎨
 
 ## 🔍 Profil Singkat
 
@@ -18,7 +17,7 @@ Saya percaya bahwa kepercayaan datang dari dirisendiri, dan saya yakin bawa semu
 
 ## 🎯 Tujuan
 
-masuk Surgaa. 🚀
+sukses dunia ahirat 🚀
 
 ## 📫 Mari Terhubung!
 
